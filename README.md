@@ -1,2 +1,1 @@
-# helloworld
-Just another repository
+# python相关
